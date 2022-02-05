@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamZander
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning html/css/Javascript/UI/UX (in my spare time!)
-- 💞️ I’m looking to collaborate on...nothing at the moment :)
+- 👀 I’m interested in, Elixir/Phoenix, frontend web development, Javascript
+- 🌱 I’m currently learning Elixir, functional programming, html/css/Javascript/UI/UX
+
 
 <!---
 AdamZander/AdamZander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
