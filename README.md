@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AdamZander
 - 👀 I’m interested in, Elixir/Phoenix, frontend web development, Javascript
 - 🌱 I’m currently learning Elixir, functional programming, html/css/Javascript/UI/UX
+- 👷🏻‍♂️ Working as a UI/UX designer and front-end developer @Atelier Zander SRL
 
 
 <!---
